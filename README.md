@@ -19,12 +19,12 @@ Datasets used for this project
 * Departments
 * Customers - The data in the 'Customers' dataset was fabricated by CareerFoundry for this acedemic exercise
 ## Folders
-* 01 Project Management: Project brief
-* 02 Data: Contains two subfolders 'Original Data' with original datasets, and 'Prepared Data' with cleaned datasets ready for analysis. (Data files not uploaded to GitHub due to size limitations.)
-* 03 Scripts: Jupyter notebooks containing coding for the analysis.
-* 04 Analysis: 'Visualizations' subfolder contains the visualizations used for developing and explaining insights.
-* 05 Sent to Client: The final report presented in Excel.
-* ## Resouces
-* Instacart is a real company.
-* “The Instacart Online Grocery Shopping Dataset 2017”, Accessed from www.instacart.com/datasets/grocery-shopping-2017 via Kaggle on (note link no longer works).
-* The Customer data, as well as the “prices” column in the products data set, were both fabricated for the purpose of this exercise
+01 Project Management: Project brief
+02 Data: Contains two subfolders 'Original Data' with original datasets, and 'Prepared Data' with cleaned datasets ready for analysis. (Data files not uploaded to GitHub due to size limitations.)
+03 Scripts: Jupyter notebooks containing coding for the analysis.
+04 Analysis: 'Visualizations' subfolder contains the visualizations used for developing and explaining insights.
+05 Sent to Client: The final report presented in Excel.
+## Resouces
+Instacart is a real company.
+“The Instacart Online Grocery Shopping Dataset 2017”, Accessed from www.instacart.com/datasets/grocery-shopping-2017 via Kaggle on (note link no longer works).
+The Customer data, as well as the “prices” column in the products data set, were both fabricated for the purpose of this exercise
